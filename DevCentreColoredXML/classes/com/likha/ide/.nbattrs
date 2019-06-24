@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE attributes PUBLIC "-//NetBeans//DTD DefaultAttributes 1.0//EN" "http://www.netbeans.org/dtds/attributes-1_0.dtd">
+<attributes version="1.0">
+    <fileobject name="BuildMessage.java">
+        <attr name="class_dependency_java.awt.event.ActionListener" stringvalue="BuildMessage.buildMessagePopUp"/>
+        <attr name="class_dependency_java.awt.event.ItemListener" stringvalue="BuildMessage.buildMessagePopUp"/>
+        <attr name="class_dependency_java.awt.event.MouseAdapter" stringvalue="BuildMessage.PopupListener"/>
+        <attr name="class_dependency_javax.swing.JMenuItem" stringvalue="BuildMessage.buildMessagePopUp.popUpMenu"/>
+        <attr name="class_dependency_javax.swing.JPopupMenu" stringvalue="BuildMessage.buildMessagePopUp"/>
+        <attr name="class_dependency_javax.swing.JTextArea" stringvalue="BuildMessage"/>
+    </fileobject>
+    <fileobject name="CaretListenerLabelHtml.java">
+        <attr name="class_dependency_javax.swing.JLabel" stringvalue="CaretListenerLabelHtml"/>
+        <attr name="class_dependency_javax.swing.event.CaretListener" stringvalue="CaretListenerLabelHtml"/>
+    </fileobject>
+    <fileobject name="CaretListenerLabelJSP.java">
+        <attr name="class_dependency_javax.swing.JLabel" stringvalue="CaretListenerLabelJSP"/>
+        <attr name="class_dependency_javax.swing.event.CaretListener" stringvalue="CaretListenerLabelJSP"/>
+    </fileobject>
+    <fileobject name="CaretListenerLabelJava.java">
+        <attr name="class_dependency_javax.swing.JLabel" stringvalue="CaretListenerLabelJava"/>
+        <attr name="class_dependency_javax.swing.event.CaretListener" stringvalue="CaretListenerLabelJava"/>
+    </fileobject>
+    <fileobject name="CaretListenerLabelOther.java">
+        <attr name="class_dependency_javax.swing.JLabel" stringvalue="CaretListenerLabelOther"/>
+        <attr name="class_dependency_javax.swing.event.CaretListener" stringvalue="CaretListenerLabelOther"/>
+    </fileobject>
+    <fileobject name="ClassPathTree.java">
+        <attr name="class_dependency_java.awt.event.MouseAdapter" stringvalue="ClassPathTree.PopupListener"/>
+        <attr name="class_dependency_java.awt.event.MouseListener" stringvalue="ClassPathTree.treeMouseListener"/>
+        <attr name="class_dependency_javax.swing.JPanel" stringvalue="ClassPathTree"/>
+        <attr name="class_dependency_javax.swing.event.TreeModelListener" stringvalue="ClassPathTree.MyTreeModelListener"/>
+    </fileobject>
+    <fileobject name="CodeEditorPaneHtml.java">
+        <attr name="class_dependency_java.awt.event.ActionListener" stringvalue="CodeEditorPaneHtml.rightClickPopUp"/>
+        <attr name="class_dependency_java.awt.event.ItemListener" stringvalue="CodeEditorPaneHtml.rightClickPopUp"/>
+        <attr name="class_dependency_java.awt.event.KeyListener" stringvalue="CodeEditorPaneHtml"/>
+        <attr name="class_dependency_java.awt.event.MouseListener" stringvalue="CodeEditorPaneHtml"/>
+        <attr name="class_dependency_java.lang.Runnable" stringvalue="CodeEditorPaneHtml"/>
+        <attr name="class_dependency_javax.swing.JEditorPane" stringvalue="CodeEditorPaneHtml"/>
+        <attr name="class_dependency_javax.swing.JMenuItem" stringvalue="CodeEditorPaneHtml.rightClickPopUp.popUpMenu"/>
+        <attr name="class_dependency_javax.swing.JPopupMenu" stringvalue="CodeEditorPaneHtml.rightClickPopUp"/>
+    </fileobject>
+    <fileobject name="CodeEditorPaneJSP.java">
+        <attr name="class_dependency_java.awt.event.ActionListener" stringvalue="CodeEditorPaneJSP.rightClickPopUp"/>
+        <attr name="class_dependency_java.awt.event.ItemListener" stringvalue="CodeEditorPaneJSP.rightClickPopUp"/>
+        <attr name="class_dependency_java.awt.event.KeyListener" stringvalue="CodeEditorPaneJSP"/>
+        <attr name="class_dependency_java.awt.event.MouseListener" stringvalue="CodeEditorPaneJSP"/>
+        <attr name="class_dependency_java.lang.Runnable" stringvalue="CodeEditorPaneJSP"/>
+        <attr name="class_dependency_javax.swing.JMenuItem" stringvalue="CodeEditorPaneJSP.rightClickPopUp.popUpMenu"/>
+        <attr name="class_dependency_javax.swing.JPopupMenu" stringvalue="CodeEditorPaneJSP.rightClickPopUp"/>
+        <attr name="class_dependency_javax.swing.JTextPane" stringvalue="CodeEditorPaneJSP"/>
+    </fileobject>
+    <fileobject name="CodeEditorPaneJava.java">
+        <attr name="class_dependency_java.awt.event.ActionListener" stringvalue="CodeEditorPaneJava.rightClickPopUp"/>
+        <attr name="class_dependency_java.awt.event.ItemListener" stringvalue="CodeEditorPaneJava.rightClickPopUp"/>
+        <attr name="class_dependency_java.awt.event.KeyListener" stringvalue="CodeEditorPaneJava"/>
+        <attr name="class_dependency_java.awt.event.MouseListener" stringvalue="CodeEditorPaneJava"/>
+        <attr name="class_dependency_java.lang.Runnable" stringvalue="CodeEditorPaneJava"/>
+        <attr name="class_dependency_javax.swing.JEditorPane" stringvalue="CodeEditorPaneJava"/>
+        <attr name="class_dependency_javax.swing.JMenuItem" stringvalue="CodeEditorPaneJava.rightClickPopUp.popUpMenu"/>
+        <attr name="class_dependency_javax.swing.JPopupMenu" stringvalue="CodeEditorPaneJava.rightClickPopUp"/>
+    </fileobject>
+    <fileobject name="CodeEditorPaneOther.java">
+        <attr name="class_dependency_java.awt.event.ActionListener" stringvalue="CodeEditorPaneOther.rightClickPopUp"/>
+        <attr name="class_dependency_java.awt.event.ItemListener" stringvalue="CodeEditorPaneOther.rightClickPopUp"/>
+        <attr name="class_dependency_java.awt.event.KeyListener" stringvalue="CodeEditorPaneOther"/>
+        <attr name="class_dependency_java.awt.event.MouseListener" stringvalue="CodeEditorPaneOther"/>
+        <attr name="class_dependency_java.lang.Runnable" stringvalue="CodeEditorPaneOther"/>
+        <attr name="class_dependency_javax.swing.JEditorPane" stringvalue="CodeEditorPaneOther"/>
+        <attr name="class_dependency_javax.swing.JMenuItem" stringvalue="CodeEditorPaneOther.rightClickPopUp.popUpMenu"/>
+        <attr name="class_dependency_javax.swing.JPopupMenu" stringvalue="CodeEditorPaneOther.rightClickPopUp"/>
+    </fileobject>
+    <fileobject name="CodeTextArea.java">
+        <attr name="class_dependency_java.awt.event.ActionListener" stringvalue="CodeTextArea.rightClickPopUp"/>
+        <attr name="class_dependency_java.awt.event.ItemListener" stringvalue="CodeTextArea.rightClickPopUp"/>
+        <attr name="class_dependency_java.awt.event.KeyListener" stringvalue="CodeTextArea"/>
+        <attr name="class_dependency_java.awt.event.MouseListener" stringvalue="CodeTextArea"/>
+        <attr name="class_dependency_javax.swing.JPopupMenu" stringvalue="CodeTextArea.rightClickPopUp"/>
+        <attr name="class_dependency_javax.swing.JTextArea" stringvalue="CodeTextArea"/>
+    </fileobject>
+    <fileobject name="DirectoryTree.java">
+        <attr name="class_dependency_javax.swing.JPanel" stringvalue="DirectoryTree"/>
+        <attr name="class_dependency_javax.swing.event.TreeModelListener" stringvalue="DirectoryTree.MyTreeModelListener"/>
+    </fileobject>
+    <fileobject name="DynamicTree.java">
+        <attr name="class_dependency_java.awt.event.MouseAdapter" stringvalue="DynamicTree.PopupListener"/>
+        <attr name="class_dependency_java.awt.event.MouseListener" stringvalue="DynamicTree.treeMouseListener"/>
+        <attr name="class_dependency_javax.swing.JPanel" stringvalue="DynamicTree"/>
+        <attr name="class_dependency_javax.swing.event.TreeModelListener" stringvalue="DynamicTree.MyTreeModelListener"/>
+    </fileobject>
+    <fileobject name="HTMLTree.java">
+        <attr name="class_dependency_javax.swing.JPanel" stringvalue="HTMLTree"/>
+        <attr name="class_dependency_javax.swing.event.TreeModelListener" stringvalue="HTMLTree.MyTreeModelListener"/>
+    </fileobject>
+    <fileobject name="JSPTree.java">
+        <attr name="class_dependency_javax.swing.JPanel" stringvalue="JSPTree"/>
+        <attr name="class_dependency_javax.swing.event.TreeModelListener" stringvalue="JSPTree.MyTreeModelListener"/>
+    </fileobject>
+    <fileobject name="JavaBeanTree.java">
+        <attr name="class_dependency_javax.swing.JPanel" stringvalue="JavaBeanTree"/>
+        <attr name="class_dependency_javax.swing.event.TreeModelListener" stringvalue="JavaBeanTree.MyTreeModelListener"/>
+    </fileobject>
+    <fileobject name="LibTree.java">
+        <attr name="class_dependency_java.awt.event.MouseAdapter" stringvalue="LibTree.PopupListener"/>
+        <attr name="class_dependency_java.awt.event.MouseListener" stringvalue="LibTree.treeMouseListener"/>
+        <attr name="class_dependency_javax.swing.JPanel" stringvalue="LibTree"/>
+        <attr name="class_dependency_javax.swing.event.TreeModelListener" stringvalue="LibTree.MyTreeModelListener"/>
+    </fileobject>
+    <fileobject name="ObjectTree.java">
+        <attr name="class_dependency_java.awt.event.MouseAdapter" stringvalue="ObjectTree.PopupListener"/>
+        <attr name="class_dependency_java.awt.event.MouseListener" stringvalue="ObjectTree.treeMouseListener"/>
+        <attr name="class_dependency_javax.swing.JPanel" stringvalue="ObjectTree"/>
+        <attr name="class_dependency_javax.swing.event.TreeModelListener" stringvalue="ObjectTree.MyTreeModelListener"/>
+    </fileobject>
+    <fileobject name="PackageTree.java">
+        <attr name="class_dependency_javax.swing.JPanel" stringvalue="PackageTree"/>
+        <attr name="class_dependency_javax.swing.event.TreeModelListener" stringvalue="PackageTree.MyTreeModelListener"/>
+    </fileobject>
+    <fileobject name="PropertiesTree.java">
+        <attr name="class_dependency_javax.swing.JPanel" stringvalue="PropertiesTree"/>
+        <attr name="class_dependency_javax.swing.event.TreeModelListener" stringvalue="PropertiesTree.MyTreeModelListener"/>
+    </fileobject>
+    <fileobject name="ServletTree.java">
+        <attr name="class_dependency_javax.swing.JPanel" stringvalue="ServletTree"/>
+        <attr name="class_dependency_javax.swing.event.TreeModelListener" stringvalue="ServletTree.MyTreeModelListener"/>
+    </fileobject>
+    <fileobject name="StreamGobbler.java">
+        <attr name="class_dependency_java.lang.Thread" stringvalue="StreamGobbler"/>
+    </fileobject>
+    <fileobject name="TextTree.java">
+        <attr name="class_dependency_javax.swing.JPanel" stringvalue="TextTree"/>
+        <attr name="class_dependency_javax.swing.event.TreeModelListener" stringvalue="TextTree.MyTreeModelListener"/>
+    </fileobject>
+    <fileobject name="about.java">
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="about"/>
+    </fileobject>
+    <fileobject name="activateLicense.java">
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="activateLicense"/>
+    </fileobject>
+    <fileobject name="appManager.java">
+        <attr name="class_dependency_java.lang.Runnable" stringvalue="appManager"/>
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="appManager"/>
+    </fileobject>
+    <fileobject name="appOtherManager.java">
+        <attr name="class_dependency_java.lang.Runnable" stringvalue="appOtherManager"/>
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="appOtherManager"/>
+    </fileobject>
+    <fileobject name="applicationTemplate.java">
+        <attr name="class_dependency_java.beans.PropertyChangeListener" stringvalue="applicationTemplate.FilePreviewer"/>
+        <attr name="class_dependency_javax.swing.JComponent" stringvalue="applicationTemplate.FilePreviewer"/>
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="applicationTemplate"/>
+    </fileobject>
+    <fileobject name="archiveName.java">
+        <attr name="class_dependency_java.io.DataOutputStream" stringvalue="archiveName.outFile"/>
+        <attr name="class_dependency_java.io.FilenameFilter" stringvalue="archiveName.filter"/>
+        <attr name="class_dependency_java.lang.Object" stringvalue="archiveName.filter;archiveName"/>
+    </fileobject>
+    <fileobject name="archiveRefresh.java">
+        <attr name="class_dependency_java.lang.Runnable" stringvalue="archiveRefresh"/>
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="archiveRefresh"/>
+    </fileobject>
+    <fileobject name="archiveSend.java">
+        <attr name="class_dependency_java.lang.Runnable" stringvalue="archiveSend"/>
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="archiveSend"/>
+    </fileobject>
+    <fileobject name="archiveSendFile.java">
+        <attr name="class_dependency_java.lang.Runnable" stringvalue="archiveSendFile"/>
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="archiveSendFile"/>
+    </fileobject>
+    <fileobject name="clearMessagePopUp.java">
+        <attr name="class_dependency_java.awt.event.ActionListener" stringvalue="clearMessagePopUp"/>
+        <attr name="class_dependency_java.awt.event.ItemListener" stringvalue="clearMessagePopUp"/>
+        <attr name="class_dependency_javax.swing.JMenuItem" stringvalue="clearMessagePopUp.popUpMenu"/>
+        <attr name="class_dependency_javax.swing.JPopupMenu" stringvalue="clearMessagePopUp"/>
+    </fileobject>
+    <fileobject name="clientSetting.java">
+        <attr name="class_dependency_java.io.DataOutputStream" stringvalue="clientSetting.outFile"/>
+        <attr name="class_dependency_java.io.FilenameFilter" stringvalue="clientSetting.filter"/>
+        <attr name="class_dependency_java.lang.Object" stringvalue="clientSetting.filter;clientSetting"/>
+    </fileobject>
+    <fileobject name="codeCompletionOptions.java">
+        <attr name="class_dependency_java.awt.event.ActionListener" stringvalue="codeCompletionOptions"/>
+        <attr name="class_dependency_java.awt.event.ItemListener" stringvalue="codeCompletionOptions"/>
+        <attr name="class_dependency_javax.swing.JMenuItem" stringvalue="codeCompletionOptions.popUpMenu"/>
+        <attr name="class_dependency_javax.swing.JPopupMenu" stringvalue="codeCompletionOptions"/>
+    </fileobject>
+    <fileobject name="commonClasses.java">
+        <attr name="class_dependency_java.beans.PropertyChangeListener" stringvalue="commonClasses.FilePreviewer"/>
+        <attr name="class_dependency_javax.swing.JComponent" stringvalue="commonClasses.FilePreviewer"/>
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="commonClasses"/>
+    </fileobject>
+    <fileobject name="compileAllFiles.java">
+        <attr name="class_dependency_java.lang.Runnable" stringvalue="compileAllFiles"/>
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="compileAllFiles"/>
+    </fileobject>
+    <fileobject name="compileAllJAVAFiles.java">
+        <attr name="class_dependency_java.lang.Runnable" stringvalue="compileAllJAVAFiles"/>
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="compileAllJAVAFiles"/>
+    </fileobject>
+    <fileobject name="compileAllJSPFiles.java">
+        <attr name="class_dependency_java.lang.Runnable" stringvalue="compileAllJSPFiles"/>
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="compileAllJSPFiles"/>
+    </fileobject>
+    <fileobject name="compileAllJWSFiles.java">
+        <attr name="class_dependency_java.lang.Runnable" stringvalue="compileAllJWSFiles"/>
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="compileAllJWSFiles"/>
+    </fileobject>
+    <fileobject name="compileFile.java">
+        <attr name="class_dependency_java.lang.Runnable" stringvalue="compileFile"/>
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="compileFile"/>
+    </fileobject>
+    <fileobject name="compileFilePopUp.java">
+        <attr name="class_dependency_java.lang.Runnable" stringvalue="compileFilePopUp"/>
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="compileFilePopUp"/>
+    </fileobject>
+    <fileobject name="compileProjectFiles.java">
+        <attr name="class_dependency_java.lang.Runnable" stringvalue="compileProjectFiles"/>
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="compileProjectFiles"/>
+    </fileobject>
+    <fileobject name="copyJarLibrary.java">
+        <attr name="class_dependency_java.beans.PropertyChangeListener" stringvalue="copyJarLibrary.FilePreviewer"/>
+        <attr name="class_dependency_javax.swing.JComponent" stringvalue="copyJarLibrary.FilePreviewer"/>
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="copyJarLibrary"/>
+    </fileobject>
+    <fileobject name="deleteDirectoryYesNo.java">
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="deleteDirectoryYesNo"/>
+    </fileobject>
+    <fileobject name="deleteYesNo.java">
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="deleteYesNo"/>
+    </fileobject>
+    <fileobject name="externalBrowserHome.java">
+        <attr name="class_dependency_java.beans.PropertyChangeListener" stringvalue="externalBrowserHome.FilePreviewer"/>
+        <attr name="class_dependency_javax.swing.JComponent" stringvalue="externalBrowserHome.FilePreviewer"/>
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="externalBrowserHome"/>
+    </fileobject>
+    <fileobject name="fileFilter.java">
+        <attr name="class_dependency_javax.swing.filechooser.FileFilter" stringvalue="fileFilter"/>
+    </fileobject>
+    <fileobject name="fileView.java">
+        <attr name="class_dependency_javax.swing.filechooser.FileView" stringvalue="fileView"/>
+    </fileobject>
+    <fileobject name="getWebAppDir.java">
+        <attr name="class_dependency_java.lang.Runnable" stringvalue="getWebAppDir"/>
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="getWebAppDir"/>
+    </fileobject>
+    <fileobject name="getWebAppDir2.java">
+        <attr name="class_dependency_java.lang.Runnable" stringvalue="getWebAppDir2"/>
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="getWebAppDir2"/>
+    </fileobject>
+    <fileobject name="jarLibraries.java">
+        <attr name="class_dependency_java.beans.PropertyChangeListener" stringvalue="jarLibraries.FilePreviewer"/>
+        <attr name="class_dependency_javax.swing.JComponent" stringvalue="jarLibraries.FilePreviewer"/>
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="jarLibraries"/>
+    </fileobject>
+    <fileobject name="java2SdkHome.java">
+        <attr name="class_dependency_java.beans.PropertyChangeListener" stringvalue="java2SdkHome.FilePreviewer"/>
+        <attr name="class_dependency_javax.swing.JComponent" stringvalue="java2SdkHome.FilePreviewer"/>
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="java2SdkHome"/>
+    </fileobject>
+    <fileobject name="listJarLibraries.java">
+        <attr name="class_dependency_java.lang.Runnable" stringvalue="listJarLibraries"/>
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="listJarLibraries"/>
+    </fileobject>
+    <fileobject name="mainForm.java">
+        <attr name="class_dependency_java.io.FilenameFilter" stringvalue="mainForm.filter"/>
+        <attr name="class_dependency_java.lang.Object" stringvalue="mainForm.filter"/>
+        <attr name="class_dependency_javax.swing.JFrame" stringvalue="mainForm"/>
+    </fileobject>
+    <fileobject name="mountJarLibrary.java">
+        <attr name="class_dependency_java.beans.PropertyChangeListener" stringvalue="mountJarLibrary.FilePreviewer"/>
+        <attr name="class_dependency_javax.swing.JComponent" stringvalue="mountJarLibrary.FilePreviewer"/>
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="mountJarLibrary"/>
+    </fileobject>
+    <fileobject name="mvcAntBuilderIF.java">
+        <attr name="class_dependency_java.io.DataOutputStream" stringvalue="mvcAntBuilderIF.outFile"/>
+        <attr name="class_dependency_java.io.FilenameFilter" stringvalue="mvcAntBuilderIF.filter"/>
+        <attr name="class_dependency_java.lang.Object" stringvalue="mvcAntBuilderIF.filter"/>
+        <attr name="class_dependency_javax.swing.JInternalFrame" stringvalue="mvcAntBuilderIF"/>
+    </fileobject>
+    <fileobject name="mvcControllerIF.java">
+        <attr name="class_dependency_java.io.DataOutputStream" stringvalue="mvcControllerIF.outFile"/>
+        <attr name="class_dependency_java.io.FilenameFilter" stringvalue="mvcControllerIF.filter"/>
+        <attr name="class_dependency_java.lang.Object" stringvalue="mvcControllerIF.filter"/>
+        <attr name="class_dependency_javax.swing.JInternalFrame" stringvalue="mvcControllerIF"/>
+    </fileobject>
+    <fileobject name="mvcControllerSetting.java">
+        <attr name="class_dependency_java.io.DataOutputStream" stringvalue="mvcControllerSetting.outFile"/>
+        <attr name="class_dependency_java.io.FilenameFilter" stringvalue="mvcControllerSetting.filter"/>
+        <attr name="class_dependency_java.lang.Object" stringvalue="mvcControllerSetting.filter"/>
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="mvcControllerSetting"/>
+    </fileobject>
+    <fileobject name="mvcControllerSettingIF.java">
+        <attr name="class_dependency_java.io.DataOutputStream" stringvalue="mvcControllerSettingIF.outFile"/>
+        <attr name="class_dependency_java.io.FilenameFilter" stringvalue="mvcControllerSettingIF.filter"/>
+        <attr name="class_dependency_java.lang.Object" stringvalue="mvcControllerSettingIF.filter"/>
+        <attr name="class_dependency_javax.swing.JInternalFrame" stringvalue="mvcControllerSettingIF"/>
+    </fileobject>
+    <fileobject name="mvcDBConnectionPoolIF.java">
+        <attr name="class_dependency_java.io.DataOutputStream" stringvalue="mvcDBConnectionPoolIF.outFile"/>
+        <attr name="class_dependency_java.io.FilenameFilter" stringvalue="mvcDBConnectionPoolIF.filter"/>
+        <attr name="class_dependency_java.lang.Object" stringvalue="mvcDBConnectionPoolIF.filter"/>
+        <attr name="class_dependency_javax.swing.JInternalFrame" stringvalue="mvcDBConnectionPoolIF"/>
+    </fileobject>
+    <fileobject name="mvcDBPool.java">
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="mvcDBPool"/>
+    </fileobject>
+    <fileobject name="mvcWappDescriptorIF.java">
+        <attr name="class_dependency_java.io.DataOutputStream" stringvalue="mvcWappDescriptorIF.outFile"/>
+        <attr name="class_dependency_java.io.FilenameFilter" stringvalue="mvcWappDescriptorIF.filter"/>
+        <attr name="class_dependency_java.lang.Object" stringvalue="mvcWappDescriptorIF.filter"/>
+        <attr name="class_dependency_javax.swing.JInternalFrame" stringvalue="mvcWappDescriptorIF"/>
+    </fileobject>
+    <fileobject name="newDirectory.java">
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="newDirectory"/>
+    </fileobject>
+    <fileobject name="newHTML.java">
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="newHTML"/>
+    </fileobject>
+    <fileobject name="newHtmlTemplate.java">
+        <attr name="class_dependency_java.beans.PropertyChangeListener" stringvalue="newHtmlTemplate.FilePreviewer"/>
+        <attr name="class_dependency_javax.swing.JComponent" stringvalue="newHtmlTemplate.FilePreviewer"/>
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="newHtmlTemplate"/>
+    </fileobject>
+    <fileobject name="newJSP.java">
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="newJSP"/>
+    </fileobject>
+    <fileobject name="newJSPTagHandler.java">
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="newJSPTagHandler"/>
+    </fileobject>
+    <fileobject name="newJWS.java">
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="newJWS"/>
+    </fileobject>
+    <fileobject name="newJavaBean.java">
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="newJavaBean"/>
+    </fileobject>
+    <fileobject name="newJavaClass.java">
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="newJavaClass"/>
+    </fileobject>
+    <fileobject name="newJavaDirectory.java">
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="newJavaDirectory"/>
+    </fileobject>
+    <fileobject name="newJavaPackage.java">
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="newJavaPackage"/>
+    </fileobject>
+    <fileobject name="newJavaServlet.java">
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="newJavaServlet"/>
+    </fileobject>
+    <fileobject name="newPackage.java">
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="newPackage"/>
+    </fileobject>
+    <fileobject name="newProperties.java">
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="newProperties"/>
+    </fileobject>
+    <fileobject name="newText.java">
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="newText"/>
+    </fileobject>
+    <fileobject name="newXML.java">
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="newXML"/>
+    </fileobject>
+    <fileobject name="projectConnectionSettings.java">
+        <attr name="class_dependency_java.beans.PropertyChangeListener" stringvalue="projectConnectionSettings.FilePreviewer"/>
+        <attr name="class_dependency_javax.swing.JComponent" stringvalue="projectConnectionSettings.FilePreviewer"/>
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="projectConnectionSettings"/>
+    </fileobject>
+    <fileobject name="projectNew.java">
+        <attr name="class_dependency_java.beans.PropertyChangeListener" stringvalue="projectNew.FilePreviewer"/>
+        <attr name="class_dependency_javax.swing.JComponent" stringvalue="projectNew.FilePreviewer"/>
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="projectNew"/>
+    </fileobject>
+    <fileobject name="projectOpen.java">
+        <attr name="class_dependency_java.beans.PropertyChangeListener" stringvalue="projectOpen.FilePreviewer"/>
+        <attr name="class_dependency_javax.swing.JComponent" stringvalue="projectOpen.FilePreviewer"/>
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="projectOpen"/>
+    </fileobject>
+    <fileobject name="remoteBackupServerResourceFactory.java">
+        <attr name="class_dependency_java.lang.Runnable" stringvalue="remoteBackupServerResourceFactory"/>
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="remoteBackupServerResourceFactory"/>
+    </fileobject>
+    <fileobject name="remoteGetServerXml.java">
+        <attr name="class_dependency_java.lang.Runnable" stringvalue="remoteGetServerXml"/>
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="remoteGetServerXml"/>
+    </fileobject>
+    <fileobject name="renameYesNo.java">
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="renameYesNo"/>
+    </fileobject>
+    <fileobject name="saveAllFiles.java">
+        <attr name="class_dependency_java.lang.Runnable" stringvalue="saveAllFiles"/>
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="saveAllFiles"/>
+    </fileobject>
+    <fileobject name="saveFile.java">
+        <attr name="class_dependency_java.lang.Runnable" stringvalue="saveFile"/>
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="saveFile"/>
+    </fileobject>
+    <fileobject name="saveServerXmlYesNo.java">
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="saveServerXmlYesNo"/>
+    </fileobject>
+    <fileobject name="saveYesNo.java">
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="saveYesNo"/>
+    </fileobject>
+    <fileobject name="searchProject.java">
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="searchProject"/>
+    </fileobject>
+    <fileobject name="searchText.java">
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="searchText"/>
+    </fileobject>
+    <fileobject name="sendJarLibrary.java">
+        <attr name="class_dependency_java.lang.Runnable" stringvalue="sendJarLibrary"/>
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="sendJarLibrary"/>
+    </fileobject>
+    <fileobject name="sourceGraphicsViewerIF.java">
+        <attr name="class_dependency_java.io.DataOutputStream" stringvalue="sourceGraphicsViewerIF.outFile"/>
+        <attr name="class_dependency_java.io.FilenameFilter" stringvalue="sourceGraphicsViewerIF.filter"/>
+        <attr name="class_dependency_java.lang.Object" stringvalue="sourceGraphicsViewerIF.filter"/>
+        <attr name="class_dependency_javax.swing.JInternalFrame" stringvalue="sourceGraphicsViewerIF"/>
+    </fileobject>
+    <fileobject name="sourceHTMLEditorIF.java">
+        <attr name="class_dependency_java.io.DataOutputStream" stringvalue="sourceHTMLEditorIF.outFile"/>
+        <attr name="class_dependency_java.io.FilenameFilter" stringvalue="sourceHTMLEditorIF.filter"/>
+        <attr name="class_dependency_java.lang.Object" stringvalue="sourceHTMLEditorIF.filter"/>
+        <attr name="class_dependency_javax.swing.JInternalFrame" stringvalue="sourceHTMLEditorIF"/>
+    </fileobject>
+    <fileobject name="sourceHTMLTemplateEditorIF.java">
+        <attr name="class_dependency_java.io.DataOutputStream" stringvalue="sourceHTMLTemplateEditorIF.outFile"/>
+        <attr name="class_dependency_java.io.FilenameFilter" stringvalue="sourceHTMLTemplateEditorIF.filter"/>
+        <attr name="class_dependency_java.lang.Object" stringvalue="sourceHTMLTemplateEditorIF.filter"/>
+        <attr name="class_dependency_javax.swing.JInternalFrame" stringvalue="sourceHTMLTemplateEditorIF"/>
+    </fileobject>
+    <fileobject name="sourceJAVAEditorIF.java">
+        <attr name="class_dependency_java.io.DataOutputStream" stringvalue="sourceJAVAEditorIF.outFile"/>
+        <attr name="class_dependency_java.io.FilenameFilter" stringvalue="sourceJAVAEditorIF.filter"/>
+        <attr name="class_dependency_java.lang.Object" stringvalue="sourceJAVAEditorIF.filter"/>
+        <attr name="class_dependency_javax.swing.JInternalFrame" stringvalue="sourceJAVAEditorIF"/>
+    </fileobject>
+    <fileobject name="sourceJSPEditorIF.java">
+        <attr name="class_dependency_java.io.DataOutputStream" stringvalue="sourceJSPEditorIF.outFile"/>
+        <attr name="class_dependency_java.io.FilenameFilter" stringvalue="sourceJSPEditorIF.filter"/>
+        <attr name="class_dependency_java.lang.Object" stringvalue="sourceJSPEditorIF.filter"/>
+        <attr name="class_dependency_javax.swing.JInternalFrame" stringvalue="sourceJSPEditorIF"/>
+    </fileobject>
+    <fileobject name="sourceJWSEditorIF.java">
+        <attr name="class_dependency_java.io.DataOutputStream" stringvalue="sourceJWSEditorIF.outFile"/>
+        <attr name="class_dependency_java.io.FilenameFilter" stringvalue="sourceJWSEditorIF.filter"/>
+        <attr name="class_dependency_java.lang.Object" stringvalue="sourceJWSEditorIF.filter"/>
+        <attr name="class_dependency_javax.swing.JInternalFrame" stringvalue="sourceJWSEditorIF"/>
+    </fileobject>
+    <fileobject name="sourceOtherEditorIF.java">
+        <attr name="class_dependency_java.io.DataOutputStream" stringvalue="sourceOtherEditorIF.outFile"/>
+        <attr name="class_dependency_java.io.FilenameFilter" stringvalue="sourceOtherEditorIF.filter"/>
+        <attr name="class_dependency_java.lang.Object" stringvalue="sourceOtherEditorIF.filter"/>
+        <attr name="class_dependency_javax.swing.JInternalFrame" stringvalue="sourceOtherEditorIF"/>
+    </fileobject>
+    <fileobject name="sourceServerResourceFactoryIF.java">
+        <attr name="class_dependency_java.io.DataOutputStream" stringvalue="sourceServerResourceFactoryIF.outFile"/>
+        <attr name="class_dependency_java.io.FilenameFilter" stringvalue="sourceServerResourceFactoryIF.filter"/>
+        <attr name="class_dependency_java.lang.Object" stringvalue="sourceServerResourceFactoryIF.filter"/>
+        <attr name="class_dependency_javax.swing.JInternalFrame" stringvalue="sourceServerResourceFactoryIF"/>
+    </fileobject>
+    <fileobject name="targetJVM.java">
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="targetJVM"/>
+    </fileobject>
+    <fileobject name="tomcatManager.java">
+        <attr name="class_dependency_javax.swing.JDialog" stringvalue="tomcatManager"/>
+    </fileobject>
+    <fileobject name="treeCellRenderer.java">
+        <attr name="class_dependency_javax.swing.tree.DefaultTreeCellRenderer" stringvalue="treeCellRenderer"/>
+    </fileobject>
+    <fileobject name="treePopUp.java">
+        <attr name="class_dependency_java.awt.event.ActionListener" stringvalue="treePopUp"/>
+        <attr name="class_dependency_java.awt.event.ItemListener" stringvalue="treePopUp"/>
+        <attr name="class_dependency_javax.swing.JMenuItem" stringvalue="treePopUp.popUpMenu"/>
+        <attr name="class_dependency_javax.swing.JPopupMenu" stringvalue="treePopUp"/>
+    </fileobject>
+</attributes>
